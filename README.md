@@ -1,6 +1,22 @@
 # istcodeTrial
 profile image ekleme özelliği eklenmemiştir.
 
+1.download meetgate folder / clone the folder on your computer
+
+2.`
+cd backend
+`
+`
+npm install
+`
+`
+node index.js
+` run the commands in order
+
+3. Open another terminal and run the commands below
+`cd ../meetgate`
+`npm install`
+`npm start`
 
 
 ## UI and creating user
