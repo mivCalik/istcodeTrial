@@ -1,5 +1,6 @@
 # istcodeTrial
-profile image ekleme özelliği eklenmemiştir.
+How to upload image?
+  - uploaded images will be downloaded at `backend/uploads/` folder
 
 1.download meetgate folder / clone the folder on your computer
 
