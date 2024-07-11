@@ -21,10 +21,12 @@ node index.js
 
 
 ## UI and creating user
-![image](https://github.com/mivCalik/istcodeTrial/assets/57195581/e708f572-9d8f-4648-86ae-0940e26a8bb9)
+![image](https://github.com/mivCalik/istcodeTrial/assets/57195581/95deb8fe-cecb-462e-8d64-3da42eeb3dac)
+)
 
 ## creating via postman
-![image](https://github.com/mivCalik/istcodeTrial/assets/57195581/ec0ef14d-7edb-43a6-a135-c375428c8b9a)
+![image](https://github.com/mivCalik/istcodeTrial/assets/57195581/a07dac74-54ad-4033-8a2d-dd96acf2bc93)
+
 
 ## updating via postman
 ![image](https://github.com/mivCalik/istcodeTrial/assets/57195581/afb2bd28-360b-4f7a-9b46-4daf3a1baa86)
